@@ -5,7 +5,7 @@
         <v-col cols="12" class="pa-0 Grew-up-position-container">
           <!-- Image -->
           <img
-            src="~/assets/user_template/6828/slide/1558685615/201905-24-153445_jO-0.jpg"
+            src="~/assets/user_template/6828/slide/1558685567/201905-24-153515_KS-0.jpg"
             alt="Hero Image"
             class="Grew-up-hero-image"
           />

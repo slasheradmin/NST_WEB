@@ -5,7 +5,7 @@
       <v-col cols="12" class="pa-0 Grew-up-position-container">
         <!-- Image -->
         <img
-          src="~/assets/user_template/6828/slide/1558685615/201905-24-153445_jO-0.jpg"
+          src="~/assets/user_template/6828/slide/1558685533/201905-24-153533_sO-0.jpg"
           alt="Hero Image"
           class="Grew-up-hero-image"
         />
@@ -99,6 +99,8 @@ export default {
       '201905-21-220551_4x48-0.jpg',
       '201905-21-193440_PTXZ-0.jpg',
       '201905-21-193438_qkIR-0.jpg',
+      
+
     ],
     text: '', // เริ่มต้นตัวแปร text
   }),
