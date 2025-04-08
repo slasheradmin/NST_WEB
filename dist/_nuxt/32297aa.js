@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[22],{1065:function(n,t,l){"use strict";l.r(t);var o={layout:"admin_appbar"},e=l(86),component=Object(e.a)(o,(function(){return(0,this._self._c)("AdminLayout")}),[],!1,null,null,null);t.default=component.exports}}]);

@@ -1,0 +1,39 @@
+{
+  "name": "nst",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "lint:prettier": "prettier --check .",
+    "lint": "npm run lint:prettier",
+    "lintfix": "prettier --write --list-different ."
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.13.6",
+    "@nuxtjs/firebase": "^7.6.1",
+    "@nuxtjs/pwa": "^3.3.5",
+    "animate.css": "^4.1.1",
+    "core-js": "^3.25.3",
+    "cropperjs": "^1.6.2",
+    "firebase": "^8.10.1",
+    "leaflet": "^1.9.4",
+    "leaflet-defaulticon-compatibility": "^0.1.2",
+    "moment": "^2.30.1",
+    "nuxt": "^2.15.8",
+    "vue": "^2.7.10",
+    "vue-cropperjs": "^4.2.0",
+    "vue-scroll-reveal": "^1.0.0",
+    "vue-server-renderer": "^2.7.10",
+    "vue-template-compiler": "^2.7.10",
+    "vue2-google-maps": "^0.10.7",
+    "vuetify": "^2.6.10"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.12.3",
+    "eslint-config-prettier": "^8.5.0",
+    "prettier": "^2.7.1"
+  }
+}
