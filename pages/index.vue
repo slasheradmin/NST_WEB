@@ -13,7 +13,7 @@
       <v-col cols="12" md="7" class="text-center py-md-0">
         <v-responsive>
           <p class="custom-heading text-sm-body-2">
-            With 50 year expertise and commitment to quality,
+            With 50 year expertise and commitment to quality XOXOXOXOXOXOXs,
             <br />
             NST is customizing parts to satisfy customers&rsquo; needs
           </p>
