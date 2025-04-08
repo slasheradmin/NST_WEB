@@ -2,15 +2,15 @@ import Vue from 'vue'
 import { decode, parsePath, withoutBase, withoutTrailingSlash, normalizeURL } from 'ufo'
 
 import { getMatchedComponentsInstances, getChildrenComponentInstancesUsingFetch, promisify, globalHandleError, urlJoin, sanitizeComponent } from './utils'
-import NuxtError from '../layouts/error.vue'
+import NuxtError from '..\\layouts\\error.vue'
 import NuxtLoading from './components/nuxt-loading.vue'
 import NuxtBuildIndicator from './components/nuxt-build-indicator'
 
-import '../assets/font/font.css'
+import '..\\assets\\font\\font.css'
 
-import _bfaeff90 from '../layouts/admin_appbar.vue'
-import _6f6c098b from '../layouts/default.vue'
-import _dc54f4dc from '../layouts/nologin.vue'
+import _bfaeff90 from '..\\layouts\\admin_appbar.vue'
+import _6f6c098b from '..\\layouts\\default.vue'
+import _dc54f4dc from '..\\layouts\\nologin.vue'
 
 const layouts = { "_admin_appbar": sanitizeComponent(_bfaeff90),"_default": sanitizeComponent(_6f6c098b),"_nologin": sanitizeComponent(_dc54f4dc) }
 

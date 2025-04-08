@@ -2,151 +2,176 @@
   {
     "name": "admin",
     "path": "/admin",
-    "component": "/Users/jaysaesong/NUXTJS/NST_WEB/pages/admin/index.vue",
-    "chunkName": "pages/admin/index"
+    "component": "D:\\\\Ruh\\\\NST_WEB\\\\pages\\\\admin\\\\index.vue",
+    "chunkName": "pages/admin/index",
+    "_name": "_662aae14"
   },
   {
     "name": "automotive",
     "path": "/automotive",
-    "component": "/Users/jaysaesong/NUXTJS/NST_WEB/pages/automotive/index.vue",
-    "chunkName": "pages/automotive/index"
+    "component": "D:\\\\Ruh\\\\NST_WEB\\\\pages\\\\automotive\\\\index.vue",
+    "chunkName": "pages/automotive/index",
+    "_name": "_5fdcea9c"
   },
   {
     "name": "contact",
     "path": "/contact",
-    "component": "/Users/jaysaesong/NUXTJS/NST_WEB/pages/contact/index.vue",
-    "chunkName": "pages/contact/index"
+    "component": "D:\\\\Ruh\\\\NST_WEB\\\\pages\\\\contact\\\\index.vue",
+    "chunkName": "pages/contact/index",
+    "_name": "_15f47e63"
   },
   {
     "name": "Full_new",
     "path": "/Full_new",
-    "component": "/Users/jaysaesong/NUXTJS/NST_WEB/pages/Full_new/index.vue",
-    "chunkName": "pages/Full_new/index"
+    "component": "D:\\\\Ruh\\\\NST_WEB\\\\pages\\\\Full_new\\\\index.vue",
+    "chunkName": "pages/Full_new/index",
+    "_name": "_dddd3f3e"
   },
   {
     "name": "Heavy",
     "path": "/Heavy",
-    "component": "/Users/jaysaesong/NUXTJS/NST_WEB/pages/Heavy/index.vue",
-    "chunkName": "pages/Heavy/index"
+    "component": "D:\\\\Ruh\\\\NST_WEB\\\\pages\\\\Heavy\\\\index.vue",
+    "chunkName": "pages/Heavy/index",
+    "_name": "_d8a92c88"
   },
   {
     "name": "Home",
     "path": "/Home",
-    "component": "/Users/jaysaesong/NUXTJS/NST_WEB/pages/Home/index.vue",
-    "chunkName": "pages/Home/index"
+    "component": "D:\\\\Ruh\\\\NST_WEB\\\\pages\\\\Home\\\\index.vue",
+    "chunkName": "pages/Home/index",
+    "_name": "_9c7c90dc"
   },
   {
     "name": "home-appliance",
     "path": "/home-appliance",
-    "component": "/Users/jaysaesong/NUXTJS/NST_WEB/pages/home-appliance/index.vue",
-    "chunkName": "pages/home-appliance/index"
+    "component": "D:\\\\Ruh\\\\NST_WEB\\\\pages\\\\home-appliance\\\\index.vue",
+    "chunkName": "pages/home-appliance/index",
+    "_name": "_1f470992"
   },
   {
     "name": "how_we_work",
     "path": "/how_we_work",
-    "component": "/Users/jaysaesong/NUXTJS/NST_WEB/pages/how_we_work/index.vue",
-    "chunkName": "pages/how_we_work/index"
+    "component": "D:\\\\Ruh\\\\NST_WEB\\\\pages\\\\how_we_work\\\\index.vue",
+    "chunkName": "pages/how_we_work/index",
+    "_name": "_c4f5e1a0"
   },
   {
     "name": "inspire",
     "path": "/inspire",
-    "component": "/Users/jaysaesong/NUXTJS/NST_WEB/pages/inspire.vue",
-    "chunkName": "pages/inspire"
+    "component": "D:\\\\Ruh\\\\NST_WEB\\\\pages\\\\inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_920fba0e"
   },
   {
     "name": "login",
     "path": "/login",
-    "component": "/Users/jaysaesong/NUXTJS/NST_WEB/pages/login/index.vue",
-    "chunkName": "pages/login/index"
+    "component": "D:\\\\Ruh\\\\NST_WEB\\\\pages\\\\login\\\\index.vue",
+    "chunkName": "pages/login/index",
+    "_name": "_aeabe48c"
   },
   {
     "name": "motorcycle",
     "path": "/motorcycle",
-    "component": "/Users/jaysaesong/NUXTJS/NST_WEB/pages/motorcycle/index.vue",
-    "chunkName": "pages/motorcycle/index"
+    "component": "D:\\\\Ruh\\\\NST_WEB\\\\pages\\\\motorcycle\\\\index.vue",
+    "chunkName": "pages/motorcycle/index",
+    "_name": "_a29f2300"
   },
   {
     "name": "news",
     "path": "/news",
-    "component": "/Users/jaysaesong/NUXTJS/NST_WEB/pages/news/index.vue",
-    "chunkName": "pages/news/index"
+    "component": "D:\\\\Ruh\\\\NST_WEB\\\\pages\\\\news\\\\index.vue",
+    "chunkName": "pages/news/index",
+    "_name": "_1b022d84"
   },
   {
     "name": "technology",
     "path": "/technology",
-    "component": "/Users/jaysaesong/NUXTJS/NST_WEB/pages/technology/index.vue",
-    "chunkName": "pages/technology/index"
+    "component": "D:\\\\Ruh\\\\NST_WEB\\\\pages\\\\technology\\\\index.vue",
+    "chunkName": "pages/technology/index",
+    "_name": "_3a00e025"
   },
   {
     "name": "About-Achievements",
     "path": "/About/Achievements",
-    "component": "/Users/jaysaesong/NUXTJS/NST_WEB/pages/About/Achievements/index.vue",
-    "chunkName": "pages/About/Achievements/index"
+    "component": "D:\\\\Ruh\\\\NST_WEB\\\\pages\\\\About\\\\Achievements\\\\index.vue",
+    "chunkName": "pages/About/Achievements/index",
+    "_name": "_712ad0f2"
   },
   {
     "name": "About-Customers",
     "path": "/About/Customers",
-    "component": "/Users/jaysaesong/NUXTJS/NST_WEB/pages/About/Customers/index.vue",
-    "chunkName": "pages/About/Customers/index"
+    "component": "D:\\\\Ruh\\\\NST_WEB\\\\pages\\\\About\\\\Customers\\\\index.vue",
+    "chunkName": "pages/About/Customers/index",
+    "_name": "_237cb349"
   },
   {
     "name": "About-ESG",
     "path": "/About/ESG",
-    "component": "/Users/jaysaesong/NUXTJS/NST_WEB/pages/About/ESG/index.vue",
-    "chunkName": "pages/About/ESG/index"
+    "component": "D:\\\\Ruh\\\\NST_WEB\\\\pages\\\\About\\\\ESG\\\\index.vue",
+    "chunkName": "pages/About/ESG/index",
+    "_name": "_11b28ab6"
   },
   {
     "name": "About-Global-Partners",
     "path": "/About/Global-Partners",
-    "component": "/Users/jaysaesong/NUXTJS/NST_WEB/pages/About/Global-Partners/index.vue",
-    "chunkName": "pages/About/Global-Partners/index"
+    "component": "D:\\\\Ruh\\\\NST_WEB\\\\pages\\\\About\\\\Global-Partners\\\\index.vue",
+    "chunkName": "pages/About/Global-Partners/index",
+    "_name": "_7a37c62e"
   },
   {
     "name": "About-Our-story",
     "path": "/About/Our-story",
-    "component": "/Users/jaysaesong/NUXTJS/NST_WEB/pages/About/Our-story/index.vue",
-    "chunkName": "pages/About/Our-story/index"
+    "component": "D:\\\\Ruh\\\\NST_WEB\\\\pages\\\\About\\\\Our-story\\\\index.vue",
+    "chunkName": "pages/About/Our-story/index",
+    "_name": "_510129ec"
   },
   {
     "name": "admin-Add_News",
     "path": "/admin/Add_News",
-    "component": "/Users/jaysaesong/NUXTJS/NST_WEB/pages/admin/Add_News/index.vue",
-    "chunkName": "pages/admin/Add_News/index"
+    "component": "D:\\\\Ruh\\\\NST_WEB\\\\pages\\\\admin\\\\Add_News\\\\index.vue",
+    "chunkName": "pages/admin/Add_News/index",
+    "_name": "_3937f583"
   },
   {
     "name": "About-Our-story-Read-More-Diversified",
     "path": "/About/Our-story/Read-More/Diversified",
-    "component": "/Users/jaysaesong/NUXTJS/NST_WEB/pages/About/Our-story/Read-More/Diversified.vue",
-    "chunkName": "pages/About/Our-story/Read-More/Diversified"
+    "component": "D:\\\\Ruh\\\\NST_WEB\\\\pages\\\\About\\\\Our-story\\\\Read-More\\\\Diversified.vue",
+    "chunkName": "pages/About/Our-story/Read-More/Diversified",
+    "_name": "_5a448a22"
   },
   {
     "name": "About-Our-story-Read-More-Expanded",
     "path": "/About/Our-story/Read-More/Expanded",
-    "component": "/Users/jaysaesong/NUXTJS/NST_WEB/pages/About/Our-story/Read-More/Expanded.vue",
-    "chunkName": "pages/About/Our-story/Read-More/Expanded"
+    "component": "D:\\\\Ruh\\\\NST_WEB\\\\pages\\\\About\\\\Our-story\\\\Read-More\\\\Expanded.vue",
+    "chunkName": "pages/About/Our-story/Read-More/Expanded",
+    "_name": "_d8c85986"
   },
   {
     "name": "About-Our-story-Read-More-Founded",
     "path": "/About/Our-story/Read-More/Founded",
-    "component": "/Users/jaysaesong/NUXTJS/NST_WEB/pages/About/Our-story/Read-More/Founded.vue",
-    "chunkName": "pages/About/Our-story/Read-More/Founded"
+    "component": "D:\\\\Ruh\\\\NST_WEB\\\\pages\\\\About\\\\Our-story\\\\Read-More\\\\Founded.vue",
+    "chunkName": "pages/About/Our-story/Read-More/Founded",
+    "_name": "_454ee066"
   },
   {
     "name": "About-Our-story-Read-More-Grew-up",
     "path": "/About/Our-story/Read-More/Grew-up",
-    "component": "/Users/jaysaesong/NUXTJS/NST_WEB/pages/About/Our-story/Read-More/Grew-up.vue",
-    "chunkName": "pages/About/Our-story/Read-More/Grew-up"
+    "component": "D:\\\\Ruh\\\\NST_WEB\\\\pages\\\\About\\\\Our-story\\\\Read-More\\\\Grew-up.vue",
+    "chunkName": "pages/About/Our-story/Read-More/Grew-up",
+    "_name": "_703d22b7"
   },
   {
     "name": "About-Our-story-Read-More-Leap-forward",
     "path": "/About/Our-story/Read-More/Leap-forward",
-    "component": "/Users/jaysaesong/NUXTJS/NST_WEB/pages/About/Our-story/Read-More/Leap-forward.vue",
-    "chunkName": "pages/About/Our-story/Read-More/Leap-forward"
+    "component": "D:\\\\Ruh\\\\NST_WEB\\\\pages\\\\About\\\\Our-story\\\\Read-More\\\\Leap-forward.vue",
+    "chunkName": "pages/About/Our-story/Read-More/Leap-forward",
+    "_name": "_4bc09264"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "/Users/jaysaesong/NUXTJS/NST_WEB/pages/index.vue",
-    "chunkName": "pages/index"
+    "component": "D:\\\\Ruh\\\\NST_WEB\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_200612b1"
   }
 ]

@@ -4,31 +4,31 @@ import { normalizeURL, decode } from 'ufo'
 import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
-const _77f384d6 = () => interopDefault(import('../pages/admin/index.vue' /* webpackChunkName: "pages/admin/index" */))
-const _14068224 = () => interopDefault(import('../pages/automotive/index.vue' /* webpackChunkName: "pages/automotive/index" */))
-const _2d6af967 = () => interopDefault(import('../pages/contact/index.vue' /* webpackChunkName: "pages/contact/index" */))
-const _14aa7b02 = () => interopDefault(import('../pages/Full_new/index.vue' /* webpackChunkName: "pages/Full_new/index" */))
-const _2f18b42e = () => interopDefault(import('../pages/Heavy/index.vue' /* webpackChunkName: "pages/Heavy/index" */))
-const _3fc552a4 = () => interopDefault(import('../pages/Home/index.vue' /* webpackChunkName: "pages/Home/index" */))
-const _4d14b6ee = () => interopDefault(import('../pages/home-appliance/index.vue' /* webpackChunkName: "pages/home-appliance/index" */))
-const _0c9ba07a = () => interopDefault(import('../pages/how_we_work/index.vue' /* webpackChunkName: "pages/how_we_work/index" */))
-const _1172cf9e = () => interopDefault(import('../pages/inspire.vue' /* webpackChunkName: "pages/inspire" */))
-const _71d69870 = () => interopDefault(import('../pages/login/index.vue' /* webpackChunkName: "pages/login/index" */))
-const _56fe1c80 = () => interopDefault(import('../pages/motorcycle/index.vue' /* webpackChunkName: "pages/motorcycle/index" */))
-const _f14580fc = () => interopDefault(import('../pages/news/index.vue' /* webpackChunkName: "pages/news/index" */))
-const _7f8d910a = () => interopDefault(import('../pages/technology/index.vue' /* webpackChunkName: "pages/technology/index" */))
-const _2177c895 = () => interopDefault(import('../pages/About/Achievements/index.vue' /* webpackChunkName: "pages/About/Achievements/index" */))
-const _e26074cc = () => interopDefault(import('../pages/About/Customers/index.vue' /* webpackChunkName: "pages/About/Customers/index" */))
-const _5d95c93e = () => interopDefault(import('../pages/About/ESG/index.vue' /* webpackChunkName: "pages/About/ESG/index" */))
-const _d9e1bd0c = () => interopDefault(import('../pages/About/Global-Partners/index.vue' /* webpackChunkName: "pages/About/Global-Partners/index" */))
-const _94b2dc8e = () => interopDefault(import('../pages/About/Our-story/index.vue' /* webpackChunkName: "pages/About/Our-story/index" */))
-const _3a8de4e0 = () => interopDefault(import('../pages/admin/Add_News/index.vue' /* webpackChunkName: "pages/admin/Add_News/index" */))
-const _00929c5a = () => interopDefault(import('../pages/About/Our-story/Read-More/Diversified.vue' /* webpackChunkName: "pages/About/Our-story/Read-More/Diversified" */))
-const _c28ca7f6 = () => interopDefault(import('../pages/About/Our-story/Read-More/Expanded.vue' /* webpackChunkName: "pages/About/Our-story/Read-More/Expanded" */))
-const _238f03f6 = () => interopDefault(import('../pages/About/Our-story/Read-More/Founded.vue' /* webpackChunkName: "pages/About/Our-story/Read-More/Founded" */))
-const _fdc5de22 = () => interopDefault(import('../pages/About/Our-story/Read-More/Grew-up.vue' /* webpackChunkName: "pages/About/Our-story/Read-More/Grew-up" */))
-const _6f34c72c = () => interopDefault(import('../pages/About/Our-story/Read-More/Leap-forward.vue' /* webpackChunkName: "pages/About/Our-story/Read-More/Leap-forward" */))
-const _bbc4b6d4 = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
+const _662aae14 = () => interopDefault(import('..\\pages\\admin\\index.vue' /* webpackChunkName: "pages/admin/index" */))
+const _5fdcea9c = () => interopDefault(import('..\\pages\\automotive\\index.vue' /* webpackChunkName: "pages/automotive/index" */))
+const _15f47e63 = () => interopDefault(import('..\\pages\\contact\\index.vue' /* webpackChunkName: "pages/contact/index" */))
+const _dddd3f3e = () => interopDefault(import('..\\pages\\Full_new\\index.vue' /* webpackChunkName: "pages/Full_new/index" */))
+const _d8a92c88 = () => interopDefault(import('..\\pages\\Heavy\\index.vue' /* webpackChunkName: "pages/Heavy/index" */))
+const _9c7c90dc = () => interopDefault(import('..\\pages\\Home\\index.vue' /* webpackChunkName: "pages/Home/index" */))
+const _1f470992 = () => interopDefault(import('..\\pages\\home-appliance\\index.vue' /* webpackChunkName: "pages/home-appliance/index" */))
+const _c4f5e1a0 = () => interopDefault(import('..\\pages\\how_we_work\\index.vue' /* webpackChunkName: "pages/how_we_work/index" */))
+const _920fba0e = () => interopDefault(import('..\\pages\\inspire.vue' /* webpackChunkName: "pages/inspire" */))
+const _aeabe48c = () => interopDefault(import('..\\pages\\login\\index.vue' /* webpackChunkName: "pages/login/index" */))
+const _a29f2300 = () => interopDefault(import('..\\pages\\motorcycle\\index.vue' /* webpackChunkName: "pages/motorcycle/index" */))
+const _1b022d84 = () => interopDefault(import('..\\pages\\news\\index.vue' /* webpackChunkName: "pages/news/index" */))
+const _3a00e025 = () => interopDefault(import('..\\pages\\technology\\index.vue' /* webpackChunkName: "pages/technology/index" */))
+const _712ad0f2 = () => interopDefault(import('..\\pages\\About\\Achievements\\index.vue' /* webpackChunkName: "pages/About/Achievements/index" */))
+const _237cb349 = () => interopDefault(import('..\\pages\\About\\Customers\\index.vue' /* webpackChunkName: "pages/About/Customers/index" */))
+const _11b28ab6 = () => interopDefault(import('..\\pages\\About\\ESG\\index.vue' /* webpackChunkName: "pages/About/ESG/index" */))
+const _7a37c62e = () => interopDefault(import('..\\pages\\About\\Global-Partners\\index.vue' /* webpackChunkName: "pages/About/Global-Partners/index" */))
+const _510129ec = () => interopDefault(import('..\\pages\\About\\Our-story\\index.vue' /* webpackChunkName: "pages/About/Our-story/index" */))
+const _3937f583 = () => interopDefault(import('..\\pages\\admin\\Add_News\\index.vue' /* webpackChunkName: "pages/admin/Add_News/index" */))
+const _5a448a22 = () => interopDefault(import('..\\pages\\About\\Our-story\\Read-More\\Diversified.vue' /* webpackChunkName: "pages/About/Our-story/Read-More/Diversified" */))
+const _d8c85986 = () => interopDefault(import('..\\pages\\About\\Our-story\\Read-More\\Expanded.vue' /* webpackChunkName: "pages/About/Our-story/Read-More/Expanded" */))
+const _454ee066 = () => interopDefault(import('..\\pages\\About\\Our-story\\Read-More\\Founded.vue' /* webpackChunkName: "pages/About/Our-story/Read-More/Founded" */))
+const _703d22b7 = () => interopDefault(import('..\\pages\\About\\Our-story\\Read-More\\Grew-up.vue' /* webpackChunkName: "pages/About/Our-story/Read-More/Grew-up" */))
+const _4bc09264 = () => interopDefault(import('..\\pages\\About\\Our-story\\Read-More\\Leap-forward.vue' /* webpackChunkName: "pages/About/Our-story/Read-More/Leap-forward" */))
+const _200612b1 = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
 
 const emptyFn = () => {}
 
@@ -43,103 +43,103 @@ export const routerOptions = {
 
   routes: [{
     path: "/admin",
-    component: _77f384d6,
+    component: _662aae14,
     name: "admin"
   }, {
     path: "/automotive",
-    component: _14068224,
+    component: _5fdcea9c,
     name: "automotive"
   }, {
     path: "/contact",
-    component: _2d6af967,
+    component: _15f47e63,
     name: "contact"
   }, {
     path: "/Full_new",
-    component: _14aa7b02,
+    component: _dddd3f3e,
     name: "Full_new"
   }, {
     path: "/Heavy",
-    component: _2f18b42e,
+    component: _d8a92c88,
     name: "Heavy"
   }, {
     path: "/Home",
-    component: _3fc552a4,
+    component: _9c7c90dc,
     name: "Home"
   }, {
     path: "/home-appliance",
-    component: _4d14b6ee,
+    component: _1f470992,
     name: "home-appliance"
   }, {
     path: "/how_we_work",
-    component: _0c9ba07a,
+    component: _c4f5e1a0,
     name: "how_we_work"
   }, {
     path: "/inspire",
-    component: _1172cf9e,
+    component: _920fba0e,
     name: "inspire"
   }, {
     path: "/login",
-    component: _71d69870,
+    component: _aeabe48c,
     name: "login"
   }, {
     path: "/motorcycle",
-    component: _56fe1c80,
+    component: _a29f2300,
     name: "motorcycle"
   }, {
     path: "/news",
-    component: _f14580fc,
+    component: _1b022d84,
     name: "news"
   }, {
     path: "/technology",
-    component: _7f8d910a,
+    component: _3a00e025,
     name: "technology"
   }, {
     path: "/About/Achievements",
-    component: _2177c895,
+    component: _712ad0f2,
     name: "About-Achievements"
   }, {
     path: "/About/Customers",
-    component: _e26074cc,
+    component: _237cb349,
     name: "About-Customers"
   }, {
     path: "/About/ESG",
-    component: _5d95c93e,
+    component: _11b28ab6,
     name: "About-ESG"
   }, {
     path: "/About/Global-Partners",
-    component: _d9e1bd0c,
+    component: _7a37c62e,
     name: "About-Global-Partners"
   }, {
     path: "/About/Our-story",
-    component: _94b2dc8e,
+    component: _510129ec,
     name: "About-Our-story"
   }, {
     path: "/admin/Add_News",
-    component: _3a8de4e0,
+    component: _3937f583,
     name: "admin-Add_News"
   }, {
     path: "/About/Our-story/Read-More/Diversified",
-    component: _00929c5a,
+    component: _5a448a22,
     name: "About-Our-story-Read-More-Diversified"
   }, {
     path: "/About/Our-story/Read-More/Expanded",
-    component: _c28ca7f6,
+    component: _d8c85986,
     name: "About-Our-story-Read-More-Expanded"
   }, {
     path: "/About/Our-story/Read-More/Founded",
-    component: _238f03f6,
+    component: _454ee066,
     name: "About-Our-story-Read-More-Founded"
   }, {
     path: "/About/Our-story/Read-More/Grew-up",
-    component: _fdc5de22,
+    component: _703d22b7,
     name: "About-Our-story-Read-More-Grew-up"
   }, {
     path: "/About/Our-story/Read-More/Leap-forward",
-    component: _6f34c72c,
+    component: _4bc09264,
     name: "About-Our-story-Read-More-Leap-forward"
   }, {
     path: "/",
-    component: _bbc4b6d4,
+    component: _200612b1,
     name: "index"
   }],
 
